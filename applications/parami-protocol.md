@@ -31,7 +31,7 @@ From the perspective of the advertising industry, the blockchain technology can 
 
 The main participants of the Parami protocol are advertisers and users. The full set of services is achieved through the cooperation of multiple components.
 
-![Project Details](https://user-images.githubusercontent.com/72891/102059406-dac82e00-3e2b-11eb-8ccb-f701786be6d1.png)
+![Project Details](https://user-images.githubusercontent.com/72891/104114587-1aa60680-5341-11eb-9584-79ab45d8b932.png)
 
 Parami components include Runtime, Off-chain worker, Access Services, Advertiser Portal, and Background Services.
 Runtime and Off-chain workers work together to implement the factor core of Parami.
